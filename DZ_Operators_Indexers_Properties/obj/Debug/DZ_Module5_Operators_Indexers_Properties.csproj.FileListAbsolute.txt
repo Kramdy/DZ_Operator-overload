@@ -1,0 +1,6 @@
+D:\С#\DZ_Module5_Operators_Indexers_Properties\bin\Debug\DZ_Module5_Operators_Indexers_Properties.exe
+D:\С#\DZ_Module5_Operators_Indexers_Properties\bin\Debug\DZ_Module5_Operators_Indexers_Properties.pdb
+D:\С#\DZ_Module5_Operators_Indexers_Properties\obj\Debug\DZ_Module5_Operators_Indexers_Properties.csproj.AssemblyReference.cache
+D:\С#\DZ_Module5_Operators_Indexers_Properties\obj\Debug\DZ_Module5_Operators_Indexers_Properties.csproj.CoreCompileInputs.cache
+D:\С#\DZ_Module5_Operators_Indexers_Properties\obj\Debug\DZ_Module5_Operators_Indexers_Properties.exe
+D:\С#\DZ_Module5_Operators_Indexers_Properties\obj\Debug\DZ_Module5_Operators_Indexers_Properties.pdb
